@@ -1,2 +1,2 @@
-# MaximLapaev.github.io
+# Максим Лапаев
 Мой первый сайт
